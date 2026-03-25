@@ -29,7 +29,7 @@ Python · C++ · Java · JavaScript · React · FastAPI · PyTorch · OpenCV · 
 
 **H.A.D.E.S** — real-time drone detection and tracking on a Raspberry Pi; keeping YOLOv8 + OpenCV inference latency low enough for live use
 
-**gse_communication_controller** — Raspberry Pi comms controller for SARP ground support equipment; robustness over elegance, serial/network IO in Python
+**gse_communication_controller** — Raspberry Pi comms controller for SARP ground support equipment; robustness over elegance, serial/network IO in Python, full stack app using Django + React for Mission Control
 
 **atom-fitter** — Python proof of concept for 2D/3D atom position fitting for quantum computing hardware; stable optimization on noisy experimental data
 
