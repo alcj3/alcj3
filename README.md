@@ -33,7 +33,7 @@ Python · C++ · Java · JavaScript · React · FastAPI · PyTorch · OpenCV · 
 
 **atom-fitter** — Python proof of concept for 2D/3D atom position fitting for quantum computing hardware; stable optimization on noisy experimental data
 
-+ more
+\+ more
 
 ---
 
