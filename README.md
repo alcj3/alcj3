@@ -19,7 +19,7 @@ I build software that has to work under real world contraints.
 Arturo Lopez Chavez — UW Informatics '27, Seattle. Ground Systems Software Lead at SARP and undergraduate researcher at Parsons Lab. Incoming AI + Data at Brooks Running. Previously engineering intern at Fluke Corporation.
 
 **Stack**  
-Python · C++ · Java · JavaScript · React · Flask · FastAPI · PyTorch · OpenCV · NumPy · Docker · Git · GitHub Actions · Linux
+Python · C++ · TypeScript · Java · JavaScript · React · Flask · FastAPI · PyTorch · OpenCV · NumPy · Docker · Git · GitHub Actions · Linux
 
 ---
 
